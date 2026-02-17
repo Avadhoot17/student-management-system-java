@@ -1,0 +1,17 @@
+student-management-system-java
+│
+├── README.md
+├── database.sql
+│
+├── src
+│   ├── DBConnection.java
+│   ├── Student.java
+│   ├── StudentDAO.java
+│   └── StudentServlet.java
+│
+├── web
+│   ├── index.html
+│   ├── add-student.html
+│   ├── style.css
+│
+└── web.xml
